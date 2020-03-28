@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paytype">
+        <item>交通</item>
+        <item>生活 </item>
+        <item>人情</item>
+        <item>医疗</item>
+        <item>教育</item>
+    </string-array>
+    <string-array name="incometype">
+        <item>工资</item>
+        <item>理财 </item>
+        <item>人情</item>
+    </string-array>
+</resources>
